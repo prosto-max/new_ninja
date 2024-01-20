@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+sqlalchemy
+envparse
+psycopg2
+asyncpg
+alembic
+pytest
+celery
+rabbitmq
+pytest-asyncio
+httpx
+ormar
+fpdf
+pyjwt
+passlib
+deta
